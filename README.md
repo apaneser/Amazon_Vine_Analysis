@@ -24,10 +24,10 @@ Count of non-Vine 5-star reviews
 * There are 48 5-star reviews for paid users
 * There are 15,663 5-star reviews from unpoaid users
 
-Vine 5-star Reviews percentage
+Vine 5-star Reviews percentage  
 ![Vine 5-star review percentage](Resources/5-star_percentage_paid.PNG)
 
-non-Vine 5-star reviews percentage
+non-Vine 5-star reviews percentage  
 ![non-Vine 5-star review percentage](Resources/5-star_percentage_unpaid.PNG)
 
 * about 51% of Vine reviews are 5-stars
